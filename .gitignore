@@ -25,3 +25,7 @@ hs_err_pid*
 #My exceptions
 *.pdf
 /Modulo2/Retos/Reto5/Seccion2/Reto5/target/
+*.docx
+*.doc
+*.ppt
+*.pptx
